@@ -6,4 +6,4 @@ A library of all sorts of utils.
 
 ## Installation and Usage
 
-Install the library with `npm install utils`
+Install the library with `npm install @daniamcode/utils`
