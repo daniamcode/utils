@@ -17,8 +17,6 @@ import { objects } from '@daniamcode/utils'
 import { strings } from '@daniamcode/utils'
 ```
 
-strings.isLowercase
-
 ## Utils
 
 Here is a list of the utils currently available.
