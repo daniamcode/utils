@@ -1,4 +1,4 @@
-// sort by property of the object
+// sort by property a of the objects
 const sortArrayOfObjects = (array, sortCriteria) => {
     if (sortCriteria) {
         array.sort((a, b) => {
