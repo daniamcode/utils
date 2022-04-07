@@ -6,4 +6,4 @@ A library of all sorts of utils.
 
 ## Installation and Usage
 
-(pending) Install the library with `npm install utils`
+Install the library with `npm install utils`

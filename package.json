@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@daniamcode/utils",
   "version": "1.0.0",
   "description": "All sorts of utils",
   "main": "index.js",
